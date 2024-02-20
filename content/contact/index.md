@@ -10,8 +10,8 @@ sections:
       title: Contact
       text: |-
         
-      email: NA
-      phone: NA
+      email: 'stefan.sarkadi@kcl.ac.uk'
+      # phone: NA
       address:
         street: Strand Campus
         city: London
@@ -19,14 +19,14 @@ sections:
         postcode: ''
         country: United Kingdom
         country_code: UK
-      coordinates:
-        latitude: NA
-        longitude: NA
-      directions: NA
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
+      # coordinates:
+      #   latitude: NA
+      #   longitude: NA
+      # directions: NA
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
+      # appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
       #    icon_pack: fas
@@ -43,7 +43,7 @@ sections:
           id:
         netlify:
           # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+          captcha: true
     design:
       columns: '1'
 
