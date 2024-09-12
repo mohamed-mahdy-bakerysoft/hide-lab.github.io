@@ -22,13 +22,14 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deceptive AI
+  - Multi-Agent Systems
+  - Theory of Mind
 
 education:
   courses:
     - course: PhD in Computer Science (Artificial Intelligence)
-      institution: Stanford University
+      institution: King's College London
       year: 2021
     - course: Visiting PhD in Artificial Intelligence
       institution: Massachusetts Institute of Technology
