@@ -15,16 +15,17 @@ role: Proleptic Lecturer & RAEng UK IC Research Fellow
 # Organizations/Affiliations
 organizations:
   - name: King's College London
-    url: 'https://www.kcl.ac.uk/people/stefan-sarkadi'
+    url: 'https://www.stefansarkadi.com'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the understanding of the complex reasoning and behaviour of intelligent agents (humans or machines) inside social environments like hybrid societies, where humans, machines, and everything in-between interact. Broadly, my areas of specialisation in AI include complex and adaptive multi-agent systems, agent based modelling, and neurosymbolic architectures. In particular, I am interested in the topics of deceptive AI and deception modelling, self-explainable AI agents with Theory-of-Mind, and the ability of AI agents to build stories and narratives.
 
 interests:
-  - Artificial Intelligence
   - Deceptive AI
-  - Multi-Agent Systems
-  - Theory of Mind
+  - Intelligence Analysis
+  - Multi-Agent Systems with Self-* properties, i.e. self-adaptation, self-organisation, and self-awareness
+  - Meta-Cognitive AI, i.e. AI agents with capabilites such as Reflection, Theory-of-Mind, and nested representation
+  - Philosophy of AI
 
 education:
   courses:
@@ -68,7 +69,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
