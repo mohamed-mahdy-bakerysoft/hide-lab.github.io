@@ -37,7 +37,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:andrei-bogdan.1.balcau@kcl.ac.uk'
+    # link: 'mailto:'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
