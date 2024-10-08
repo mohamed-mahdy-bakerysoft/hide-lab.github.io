@@ -49,7 +49,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:stefan.sarkadi@kcl.ac.uk'
+    link: 'email: stefan DOT sarkadi AT kcl.ac.uk'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
