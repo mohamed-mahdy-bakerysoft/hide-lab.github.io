@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         
-      email: 'stefan.sarkadi@kcl.ac.uk'
+      email: 'stefan DOT sarkadi AT kcl.ac.uk'
       # phone: NA
       address:
         street: Strand Campus
