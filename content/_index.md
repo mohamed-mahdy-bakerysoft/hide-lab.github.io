@@ -10,7 +10,7 @@ sections:
       title: |
         HIDE Lab
       image:
-        filename: welcome.jpg
+        filename: welcome.jpeg
       text: |
         <br>
         
@@ -52,7 +52,7 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['10px', '0', '10px', '0']
       css_class: fullscreen
   
   - block: markdown
