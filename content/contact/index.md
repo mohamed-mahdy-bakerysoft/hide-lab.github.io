@@ -13,10 +13,10 @@ sections:
       email: 'stefan DOT sarkadi AT kcl.ac.uk'
       # phone: NA
       address:
-        street: Strand Campus
+        street: King's College London, Dept. of Informatics, Bush House
         city: London
         region: England
-        postcode: ''
+        postcode: 'WC2B 4BG'
         country: United Kingdom
         country_code: UK
       # coordinates:
