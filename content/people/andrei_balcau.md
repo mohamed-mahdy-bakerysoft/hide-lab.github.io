@@ -8,7 +8,7 @@ last_name: Balcau
 
 
 # Role/position
-role: PhD Student
+role: PhD Students
 
 # Organizations/Affiliations
 organizations:
