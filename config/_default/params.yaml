@@ -7,7 +7,9 @@
 
 appearance:
   theme_day: minimal
-  theme_night:
+  theme_night: minimal
+  mode: dark
+  color: red
   font: native
   font_size: L
 
