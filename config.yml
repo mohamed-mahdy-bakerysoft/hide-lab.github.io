@@ -9,6 +9,10 @@ markdown: kramdown
 theme: minima  # Or leave empty if you are not using a pre-built theme
 
 
+plugins:
+  - jekyll-scholar
+
+
 scholar:
   style: apa    # You can change this to another style like 'ieee', 'mla', etc.
   locale: en
