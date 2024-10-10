@@ -8,6 +8,6 @@ Hybrid Intelligence and Deception Exploration HIDE Lab is dedicated to exploring
 
 We specialize in:
 - Deceptive AI
-- Self-* (i.e. self-adaptive, self-aware, and self-organising) Multi-Agent Systems
+- Self-* Multi-Agent Systems (i.e. self-adaptive, self-aware, and self-organising)
 - Intelligence Analysis
 
