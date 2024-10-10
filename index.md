@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-## About Our Lab
+## About The HIDE Lab
 Hybrid Intelligence and Deception Exploration HIDE Lab is dedicated to exploring deception in hybrid societies, namely societies where humans and machines interact as agents.
 
 We specialize in:
