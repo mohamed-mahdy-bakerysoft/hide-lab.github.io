@@ -7,3 +7,10 @@ url: "https://hide-lab.github.io/"  # Your GitHub Pages URL
 # Include these options if using GitHub Pages
 markdown: kramdown
 theme: minima  # Or leave empty if you are not using a pre-built theme
+
+
+scholar:
+  style: apa    # You can change this to another style like 'ieee', 'mla', etc.
+  locale: en
+  source: _bibliography    # Folder where your BibTeX file will be stored
+  bibliography: publications.bib  # Name of your BibTeX file
