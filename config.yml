@@ -9,12 +9,12 @@ markdown: kramdown
 theme: minima  # Or leave empty if you are not using a pre-built theme
 
 
-plugins:
-  - jekyll-scholar
+# plugins:
+#   - jekyll-scholar
 
 
-scholar:
-  style: apa    # You can change this to another style like 'ieee', 'mla', etc.
-  locale: en
-  source: _bibliography    # Folder where your BibTeX file will be stored
-  bibliography: publications.bib  # Name of your BibTeX file
+# scholar:
+#   style: apa    # You can change this to another style like 'ieee', 'mla', etc.
+#   locale: en
+#   source: _bibliography    # Folder where your BibTeX file will be stored
+#   bibliography: publications.bib  # Name of your BibTeX file
