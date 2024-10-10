@@ -1,3 +1,9 @@
+
 title: "HIDE Lab"
 description: "Research in Deceptive AI"
-theme: minima
+baseurl: ""  # Leave this empty unless your site is hosted in a subdirectory
+url: "https://hide-lab.github.io/"  # Your GitHub Pages URL
+
+# Include these options if using GitHub Pages
+markdown: kramdown
+theme: minima  # Or leave empty if you are not using a pre-built theme
