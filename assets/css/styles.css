@@ -15,7 +15,7 @@ body {
 /* Header Styling */
 header {
     text-align: center;
-    background-color: #004080;
+    background-color: #800000;
     color: white;
     padding: 20px 0;
 }
@@ -55,7 +55,7 @@ main {
 }
 
 h2 {
-    color: #004080;
+    color: #800000;
     margin-bottom: 20px;
 }
 
