@@ -1,3 +1,7 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'jekyll-scholar'
+# Specify the version of Jekyll you want
+gem "jekyll", "~> 4.2.0"  # or the version you want
+
+# Add your desired plugins
+gem "jekyll-scholar"
