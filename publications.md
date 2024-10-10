@@ -5,4 +5,4 @@ title: Publications
 
 ## Publications
 
-TBA
+{% bibliography %}

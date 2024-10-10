@@ -8,3 +8,7 @@ url: "https://hide-lab.github.io/"  # Your GitHub Pages URL
 markdown: kramdown
 theme: minima  # Or leave empty if you are not using a pre-built theme
 
+plugins: ['jekyll/scholar']
+scholar:
+  style: apa
+  source: _bibliography
