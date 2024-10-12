@@ -23,8 +23,6 @@ Hybrid Intelligence and Deception Exploration HIDE Lab is dedicated to exploring
 
 RAEng UK IC Research Fellowship
 
-[OpenScienceFoundation](https://osf.io/q8jbt/wiki/home/)
-
 # Grants
 - College Teaching Fund - King's College London - £10,222.50
 
