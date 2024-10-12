@@ -7,7 +7,7 @@
 
 /* Body Styling */
 body {
-    font-family: 'Courier New', sans-serif; /* Default font */
+    font-family: 'Courier New', Courier, sans-serif; /* Default font */
     padding: 20px;
     background-color: white; /* Background color */
     color: black; /* Text color */
