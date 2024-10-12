@@ -9,5 +9,5 @@ layout: home
 ---
 
 # Publications
-{% bibliography %}
+{% bibliography --template=custom_bibliography%}
 
