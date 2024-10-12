@@ -56,6 +56,16 @@ main {
     border-radius: 8px;
 }
 
+.bibliography {
+    padding-left: 20px; /* Adjust as needed */
+    list-style-position: inside; /* Keeps the bullets inside the list */
+}
+
+.bibliography li {
+    margin-bottom: 10px; /* Add spacing between entries */
+}
+
+
 h2 {
     color: #800000;
     margin-bottom: 20px;
