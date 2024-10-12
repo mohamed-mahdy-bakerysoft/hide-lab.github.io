@@ -13,7 +13,20 @@ layout: home
 
 # Projects
 
-<img src="assets/img/story_AI.png" height="100" width=auto style="vertical-align:middle">
+
+<img src="assets/img/portfolio/robot.png" height="200" width=auto style="vertical-align:middle">
+
+## Deceptive AI
+
+Autonomous agents might develop or be endowed with the ability to deceive. Deceptive machines first appear, more or less, as subtle concepts in Turing's famous <i>Imitation Game</i>. In this game, their role is to trick humans into assigning them the property of intelligence (and perhaps even the property of being phenomenally conscious?). Events that revolve around fake news indicate that humans are more susceptible than ever to mental manipulation by powerful technological tools. My concern is that, given future advancements in AI, these tools may become fully autonomous. This threat made me think that there might be several reasons for which we might consider modelling such agents. Now, the big question that follows from this is "How do we model these artificial agents in a manner such that we increase our understanding of them, instead of increasing the risks they might pose?". With this question in mind, in Stefan Sarkadi's <a href="https://kclpure.kcl.ac.uk/portal/en/theses/deception(472436d1-6edc-4958-85c5-0941ac948189).html">	PhD thesis </a>, he gives the first full computational treatment to deception in AI. However, if you're not into reading PhD theses, you can have a look at his paper in IEEE Technology and Society to get a brief overview and history of the concept of  <a href="https://ieeexplore.ieee.org/document/10410131">deceptive AI</a>
+
+To anyone interested in delving deeper into this topic, HIDE Lab recommend having a look at some of the symposia and workshops on deceptive AI (some of which we have co-organised): the <a href="https://sites.google.com/view/deceptecai2020">1st International Workshop on Deceptive AI @ECAI2020</a> and  the <a href="https://sites.google.com/view/deceptai2021"> 2nd International Workshop on Deceptive AI @IJCAI2021 </a>, the <a href="https://aaai.org/Press/Reports/Symposia/Fall/fs-15-03.php">2015 AAAI Fall Symposium on Deceptive and Counter-Deceptive Machines</a>, and the <a href="https://www.machinedeception.com/">2017 Deceptive Machines Workshop @NeurIPS</a>. Don't forget to check out the <a href="https://rd.springer.com/book/10.1007%2F978-3-030-91779-1">Deceptive AI Springer book</a> containing the joint proceedings of the two International Workshops on Deceptive AI.
+
+<p style="text-align:center;"><a href="https://rd.springer.com/book/10.1007%2F978-3-030-91779-1"><img src="assets/img/proc.jpeg" alt="proceedings" height="400" width="300"></a></p>
+
+
+
+<img src="assets/img/story_AI.png" height="200" width=auto style="vertical-align:middle">
  
 ## Deception Modelling and Analysis
 
@@ -21,7 +34,7 @@ Deception is becoming an increasingly complex socio-cognitive phenomenon that is
 
 
 
-<img src="assets/img/decosystem.png" height="100" width=auto style="vertical-align:middle">
+<img src="assets/img/decosystem.png" height="200" width=auto style="vertical-align:middle">
 
 ## Governing Knowledge-Sharing in Hybrid Societies
 
@@ -34,18 +47,10 @@ Moreover, we must also look at how properties that were initially considered tec
 
 
 
-<img src="assets/img/portfolio/robot.png" height="100" width=auto style="vertical-align:middle">
-
-## Deceptive AI
-
-Autonomous agents might develop or be endowed with the ability to deceive. Deceptive machines first appear, more or less, as subtle concepts in Turing's famous <i>Imitation Game</i>. In this game, their role is to trick humans into assigning them the property of intelligence (and perhaps even the property of being phenomenally conscious?). Events that revolve around fake news indicate that humans are more susceptible than ever to mental manipulation by powerful technological tools. My concern is that, given future advancements in AI, these tools may become fully autonomous. This threat made me think that there might be several reasons for which we might consider modelling such agents. Now, the big question that follows from this is "How do we model these artificial agents in a manner such that we increase our understanding of them, instead of increasing the risks they might pose?". With this question in mind, in Stefan Sarkadi's <a href="https://kclpure.kcl.ac.uk/portal/en/theses/deception(472436d1-6edc-4958-85c5-0941ac948189).html">	PhD thesis </a>, he gives the first full computational treatment to deception in AI. However, if you're not into reading PhD theses, you can have a look at his paper in IEEE Technology and Society to get a brief overview and history of the concept of  <a href="https://ieeexplore.ieee.org/document/10410131">deceptive AI</a>
-
-To anyone interested in delving deeper into this topic, HIDE Lab recommend having a look at some of the symposia and workshops on deceptive AI (some of which we have co-organised): the <a href="https://sites.google.com/view/deceptecai2020">1st International Workshop on Deceptive AI @ECAI2020</a> and  the <a href="https://sites.google.com/view/deceptai2021"> 2nd International Workshop on Deceptive AI @IJCAI2021 </a>, the <a href="https://aaai.org/Press/Reports/Symposia/Fall/fs-15-03.php">2015 AAAI Fall Symposium on Deceptive and Counter-Deceptive Machines</a>, and the <a href="https://www.machinedeception.com/">2017 Deceptive Machines Workshop @NeurIPS</a>. Don't forget to check out the <a href="https://rd.springer.com/book/10.1007%2F978-3-030-91779-1">Deceptive AI Springer book</a> containing the joint proceedings of the two International Workshops on Deceptive AI.
-
-<p style="text-align:center;"><a href="https://rd.springer.com/book/10.1007%2F978-3-030-91779-1"><img src="assets/img/proc.jpeg" alt="proceedings" height="400" width="300"></a></p>
 
 
-<img src="assets/img/portfolio/tom.png" height="100" width=auto style="vertical-align:middle">
+
+<img src="assets/img/portfolio/tom.png" height="200" width=auto style="vertical-align:middle">
 
 ## Reflective and Meta-Cognitive AI
 					
@@ -54,7 +59,7 @@ To anyone interested in delving deeper into this topic, HIDE Lab recommend havin
 
 
 
-<img src="assets/img/portfolio/ohaai.png" height="100" width=auto style="vertical-align:middle">
+<img src="assets/img/portfolio/ohaai.png" height="200" width=auto style="vertical-align:middle">
 
 ## Computational Argumentation
 
