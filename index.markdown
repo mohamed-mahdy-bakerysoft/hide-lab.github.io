@@ -5,7 +5,14 @@
 layout: home
 # layout: default
 ---
+
+<p align="center">
 <img src="assets/img/welcome.jpeg" alt="welcome" width="200" align="center" style="margin-right:10px; border-radius:80px" />
+</p>
+
+---      
+
+## About:
 
 The Hybrid Intelligence and Deception Exploration (HIDE) Lab focuses on understanding the complexity of human-AI interactions and deception in increasingly hybrid societies. The lab is led by <a href="https://www.kcl.ac.uk/people/stefan-sarkadi"> Dr. Stefan Sarkadi</a>, who is currently a Proleptic Lecturer (Research Assistant Professor) in the Dept. of Informatics at King's College London. The Lab's aim is to act as an international hub for conducting state-of-the-art AI-based research to tackle the topic of deception. 
 
