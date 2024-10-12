@@ -5,7 +5,9 @@
 layout: home
 # layout: default
 ---
-<img src="assets/img/team.jpeg" alt="team" width="200" align="left" style="margin-right:10px; border-radius:80px" />
+<p align="center">
+<img src="assets/img/team.jpeg" alt="team" width="300" align="left" style="margin-right:10px; border-radius:80px" />
+</p>
 
 
 

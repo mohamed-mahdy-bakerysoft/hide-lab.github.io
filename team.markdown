@@ -5,7 +5,7 @@
 layout: home
 # layout: default
 ---
-<p align="center"><img src="assets/img/hide.jpg" alt="hide" width="200" align="centered" style="margin-right:10px; border-radius:80px"/></p>
+<p align="center"><img src="assets/img/hide.jpg" alt="hide" width="300" align="centered" style="margin-right:10px; border-radius:80px"/></p>
 
 
 # Team
