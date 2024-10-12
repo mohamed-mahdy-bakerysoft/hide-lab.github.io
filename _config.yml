@@ -30,9 +30,9 @@ theme: minima
 
 plugins: ['jekyll/scholar']
 scholar:
-  style: apa
+  style: apa  # or any other style you're using
+  locale: en
   source: _bibliography
-  # bibliography_template: bib
   bibliography: references.bib
 
 # Exclude from processing.
