@@ -5,7 +5,7 @@
 layout: home
 # layout: default
 ---
-<img src="welcome.png" alt="welcome" width="200" align="left" style="margin-right:10px; border-radius:80px" />
+<img src="assets/img/welcome.png" alt="welcome" width="200" align="left" style="margin-right:10px; border-radius:80px" />
 
 Hybrid Intelligence and Deception Exploration HIDE Lab is dedicated to exploring deception in hybrid societies, namely societies where humans and machines interact as agents.
 
