@@ -1,0 +1,11 @@
+<ul class="bibliography">
+  {% for entry in bibliography %}
+    <li>
+      {% if entry.url %}
+        <a href="{{ entry.url }}" target="_blank">{{ entry.title }}</a>, {{ entry.author }}, {{ entry.year }}.
+      {% else %}
+        {{ entry.title }}, {{ entry.author }}, {{ entry.year }}.
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
