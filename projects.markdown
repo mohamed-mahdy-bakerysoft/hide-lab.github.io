@@ -7,13 +7,13 @@ layout: home
 ---
 <img src="assets/img/team.jpeg" alt="team" width="200" align="left" style="margin-right:10px; border-radius:80px" />
 
----
+
 
 # Projects
 
- <img src="assets/img/story_AI.png" height="100" width=auto style="vertical-align:middle">
+<img src="assets/img/story_AI.png" height="100" width=auto style="vertical-align:middle">
  
- ## Deception Modelling and Analysis
+## Deception Modelling and Analysis
 
 Deception is becoming an increasingly complex socio-cognitive phenomenon that is difficult to detect and reason about. The HIDE Lab's main research tackles the integration of techniques from AI and Intelligence Analysis to understand deception in hybrid human-machine societies. One avenue of our research is to explore the generation of narratives about  interactions in complex and adaptive multi-agent systems in order to help intelligence analysts perform inference to the best explanation. We have recently been awarded fellowship grants by the Royal Academy of Engineering through the UK IC Postdoctoral Research Fellowship scheme for the project entitled <a href="https://raeng.org.uk/programmes-and-prizes/programmes/uk-grants-and-prizes/support-for-research/induction-awardees/dr-stefan-sarkadi-king-s-college-london">Enhancing deception analysis with storytelling AI</a>.
 
