@@ -9,5 +9,5 @@ layout: home
 ---
 
 # Publications
-{% bibliography --order=ascending %}
+{% bibliography --template=custom_bibliography --order=descending --sort_by=year %}
 
