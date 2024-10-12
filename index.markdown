@@ -23,6 +23,7 @@ We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-
 - Multi-agent Systems
 - Cognitive Architectures
   
+---
 
 <!-- # Key Projects
 ### Enhancing deception analysis with storytelling AI
