@@ -32,6 +32,7 @@ plugins: ['jekyll/scholar']
 scholar:
   style: apa
   source: _bibliography
+  bibliography_template: bib
   bibliography: references.bib
 
 # Exclude from processing.
