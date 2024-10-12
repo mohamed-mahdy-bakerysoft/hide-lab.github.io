@@ -13,6 +13,6 @@ layout: home
 
 ---
 
-{% bibliography --order=descending --sort_by=year --template=custom_bibliography %}
+{% bibliography --order=descending --sort_by=year --template=custom_bib %}
 
 
