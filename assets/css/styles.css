@@ -59,13 +59,24 @@ nav ul li a:hover {
 
 /* Main Section Styling */
 main {
-    max-width: 100%; /* Maximum width for main content */
-    margin: 20px auto; /* Center align */
+    /* max-width: 1000px; */
+    max-width: 100%;
+    margin: 0 auto;
     padding: 20px;
-    background-color: white; /* Main content background */
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Slight shadow */
-    border-radius: 8px; /* Rounded corners */
+    background-color: white;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
 }
+
+.bibliography {
+    padding-left: 20px; /* Adjust as needed */
+    list-style-position: inside; /* Keeps the bullets inside the list */
+}
+
+.bibliography li {
+    margin-bottom: 10px; /* Add spacing between entries */
+}
+
 
 /* List Styling */
 ul {
