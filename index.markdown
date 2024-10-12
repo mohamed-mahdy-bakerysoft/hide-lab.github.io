@@ -10,7 +10,7 @@ layout: home
 <img src="assets/img/welcome.jpeg" alt="welcome" width="200" align="center" style="margin-right:10px; border-radius:80px" />
 </p>
 
----      
+    
 
 ## About:
 
@@ -32,13 +32,7 @@ We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-
   
 ---
 
-<!-- # Key Projects
-### Enhancing deception analysis with storytelling AI
-
-RAEng UK IC Research Fellowship -->
 
 ## Grants
 - RAEng UK IC Research Fellowship - £200,000
 
-<!-- # Publications
-{% bibliography %}  -->
