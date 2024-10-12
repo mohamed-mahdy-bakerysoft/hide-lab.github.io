@@ -65,7 +65,15 @@ main {
     margin-bottom: 10px; /* Add spacing between entries */
 }
 
+/* Link Styling */
+a {
+    color: #800000; /* Dark red */
+    text-decoration: none;
+}
 
+a:hover {
+    text-decoration: underline; /* Underline on hover */
+}
 
 
 h2 {

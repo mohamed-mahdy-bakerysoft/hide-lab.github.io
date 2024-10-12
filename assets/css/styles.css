@@ -7,17 +7,17 @@
 
 /* Body Styling */
 body {
-    font-family: 'Courier New', Courier, sans-serif; /* Default font */
+    /* font-family: 'Helvetica Neue', Arial, sans-serif; */
+    font-family: 'Courier New', Courier, monospace;
     padding: 20px;
-    background-color: white; /* Background color */
-    color: black; /* Text color */
+    background-color: #f9f9f9;
 }
 
 /* Header Styling */
 header {
-    background-color: #800000; /* Dark red */
-    color: white; /* Text color in header */
     text-align: center;
+    background-color: #800000;
+    color: white;
     padding: 20px 0;
 }
 
@@ -25,36 +25,24 @@ h1 {
     font-size: 2.5em;
 }
 
-h2 {
-    color: #800000; /* Dark red */
-    margin: 20px 0;
-}
-
-h3 {
-    color: black; /* Black for subheadings */
-    margin: 15px 0;
-}
-
-/* Navigation Styling */
 nav ul {
     display: flex;
     justify-content: center;
     list-style-type: none;
-    padding: 10px 0;
 }
 
 nav ul li {
-    margin: 0 15px;
+    margin: 0 10px;
 }
 
 nav ul li a {
-    color: white; /* Link color */
+    color: white;
     text-decoration: none;
     font-weight: bold;
 }
 
 nav ul li a:hover {
-    text-decoration: underline; /* Underline on hover */
+    text-decoration: underline;
 }
 
 /* Main Section Styling */
@@ -77,16 +65,6 @@ main {
     margin-bottom: 10px; /* Add spacing between entries */
 }
 
-
-/* List Styling */
-ul {
-    list-style-type: none; /* Remove bullets */
-}
-
-li {
-    margin-bottom: 10px; /* Space between list items */
-}
-
 /* Link Styling */
 a {
     color: #800000; /* Dark red */
@@ -97,29 +75,19 @@ a:hover {
     text-decoration: underline; /* Underline on hover */
 }
 
-/* Footer Styling */
+
+h2 {
+    color: #800000;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+}
+
 footer {
     text-align: center;
     margin-top: 40px;
     font-size: 0.85em;
-    color: gray; /* Footer text color */
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-    body {
-        padding: 10px; /* Reduce padding on smaller screens */
-    }
-
-    main {
-        padding: 15px; /* Adjust padding in main */
-    }
-
-    nav ul {
-        flex-direction: column; /* Stack navigation links vertically */
-    }
-
-    nav ul li {
-        margin: 5px 0; /* Reduce margin */
-    }
+    color: gray;
 }
