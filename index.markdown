@@ -7,7 +7,7 @@ layout: home
 ---
 
 <p align="center">
-<img src="assets/img/welcome.jpeg" alt="welcome" width="200" align="center" style="margin-right:10px; border-radius:80px" />
+<img src="assets/img/welcome.jpeg" alt="welcome" width="300" align="center" style="margin-right:10px; border-radius:80px" />
 </p>
 
     
