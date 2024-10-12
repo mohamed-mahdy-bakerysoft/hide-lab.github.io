@@ -7,7 +7,7 @@
 
 /* Body Styling */
 body {
-    font-family: 'Arial', sans-serif; /* Default font */
+    font-family: 'Courier New', sans-serif; /* Default font */
     padding: 20px;
     background-color: white; /* Background color */
     color: black; /* Text color */
@@ -59,7 +59,7 @@ nav ul li a:hover {
 
 /* Main Section Styling */
 main {
-    max-width: 1000px; /* Maximum width for main content */
+    max-width: 100%; /* Maximum width for main content */
     margin: 20px auto; /* Center align */
     padding: 20px;
     background-color: white; /* Main content background */
