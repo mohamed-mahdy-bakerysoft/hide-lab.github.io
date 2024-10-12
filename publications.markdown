@@ -9,4 +9,5 @@ layout: home
 ---
 
 # Publications
-{% bibliography --order=descending %} 
+{% bibliography --order=descending %}
+
