@@ -5,12 +5,10 @@ def bibtex_to_markdown_with_links(bib_file):
     with open(bib_file, 'r') as file:
         bib_database = bibtexparser.load(file)
 
-        markdown_entries = [
+        markdown_entries = ['---',
         'layout: home\n',
         '---\n',
-        '<!-- <p align="center"> -->\n',
         '<img src="assets/img/portfolio/publications.png" alt="books" width="200" align="left" style="margin-right:10px; border-radius:80px" />\n',
-        '<!-- </p> -->\n\n',
         '# Publications\n'
     ]
     
