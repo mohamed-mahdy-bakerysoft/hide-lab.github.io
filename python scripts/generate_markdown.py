@@ -5,7 +5,9 @@ def clean_bibtex_title(title):
     # Replace BibTeX special characters with equivalent plain text characters
     replacements = {
         r'{\c{S}}': 'Ş', 
+        r'\c{S}': 'Ş', 
         r'{\c{t}}': 'ţ',
+        r'\c{t}': 'ţ',
         # Add other special character replacements as needed
         r'{\'a}': 'á',
         r'{\'e}': 'é',
@@ -52,7 +54,7 @@ def bibtex_to_markdown_with_links(bib_file):
         url = entry.get('url', None)  # Get URL if available
         
         # Start the markdown entry for the numbered list
-        markdown_entry = f"{i}. {author} ({year}). **{title}.** "
+        markdown_entry = f"{i}. {author} ({year}). **[{title}]({url})** " if url else f"{i}. {author} ({year}). **{title}** "
         
         if journal:
             markdown_entry += f"*{journal}*, "
@@ -73,6 +75,7 @@ def save_markdown_to_file(markdown_content, output_file):
     # Write the Markdown content to a file
     with open(output_file, 'w') as file:
         file.write(markdown_content)
+
 
 # Replace 'references.bib' with the path to your BibTeX file
 bib_file = 'references.bib'
