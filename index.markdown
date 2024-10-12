@@ -11,14 +11,14 @@ The Hybrid Intelligence and Deception Exploration (HIDE) Lab focuses on understa
 
 ---      
 
-# News:
+## News:
 
 We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-of-mind-aaai-2025/"> Theory of Mind</a> at AAAI 2025!
 
 
 ---
 
-# Research Topics
+## Research Topics
 - Deceptive AI
 - Multi-agent Systems
 - Cognitive Architectures
@@ -30,7 +30,7 @@ We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-
 
 RAEng UK IC Research Fellowship -->
 
-# Grants
+## Grants
 - RAEng UK IC Research Fellowship - £200,000
 
 <!-- # Publications
