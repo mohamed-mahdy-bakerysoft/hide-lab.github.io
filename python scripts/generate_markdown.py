@@ -48,6 +48,7 @@ def bibtex_to_markdown_with_links(bib_file):
         author = entry.get('author', 'Unknown Author')
         title = clean_bibtex_title(entry.get('title', 'Untitled'))
         journal = entry.get('journal', '')
+        booktitle = entry.get('booktitle', '')  # For conference proceedings
         year = entry.get('year', 'Year Unknown')
         volume = entry.get('volume', '')
         pages = entry.get('pages', '')
@@ -56,16 +57,16 @@ def bibtex_to_markdown_with_links(bib_file):
         # Start the markdown entry for the numbered list
         markdown_entry = f"{i}. {author} ({year}). **[{title}]({url})** " if url else f"{i}. {author} ({year}). **{title}** "
         
+        # Include either the journal or booktitle (conference name) if available
         if journal:
             markdown_entry += f"*{journal}*, "
+        elif booktitle:
+            markdown_entry += f"*{booktitle}*, "
+        
         if volume:
             markdown_entry += f"{volume} "
         if pages:
             markdown_entry += f"{pages}. "
-        
-        # Add the link if it exists
-        if url:
-            markdown_entry += f"[Link]({url})"
         
         markdown_entries.append(markdown_entry + "\n")
     
