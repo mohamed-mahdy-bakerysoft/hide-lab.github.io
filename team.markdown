@@ -21,7 +21,7 @@ layout: home
 
 ## Co-Investigators
 
-<img src="assets/img/icon.jpg" alt="hide" width="100" align="left" style="margin-right:10px; border-radius:80px"/> Dr. Peta Masters is a RAEng UK IC Research Fellow. Peta gained her doctorate at RMIT in Melbourne with a thesis on goal recognition and deception in path-planning and her first paper, with supervisor Sebastian Sardina, won the Pragnesh Jay Modi Best Student Paper Award at AAMAS17. She worked on Deceptive AI at the University of Melbourne with Liz Sonenberg and a multi-disciplinary team under the direction of Wally Smith, a psychologist and amateur magician. She was previously a researcher with the Trustworthy Autonomous Systems (TAS) Hub at King’s College London where she was PI for the TAS Benchmarks Library and Critical Review.
+<img src="assets/img/Peta.jpg" alt="hide" width="100" align="left" style="margin-right:10px; border-radius:80px"/> Dr. Peta Masters is a RAEng UK IC Research Fellow. Peta gained her doctorate at RMIT in Melbourne with a thesis on goal recognition and deception in path-planning and her first paper, with supervisor Sebastian Sardina, won the Pragnesh Jay Modi Best Student Paper Award at AAMAS17. She worked on Deceptive AI at the University of Melbourne with Liz Sonenberg and a multi-disciplinary team under the direction of Wally Smith, a psychologist and amateur magician. She was previously a researcher with the Trustworthy Autonomous Systems (TAS) Hub at King’s College London where she was PI for the TAS Benchmarks Library and Critical Review.
 
 
 
