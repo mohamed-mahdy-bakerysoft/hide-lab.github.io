@@ -26,8 +26,12 @@ We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-
 
 ## Research Topics
 - Deceptive AI
-- Multi-agent Systems
-- Cognitive Architectures
+- Deception Modelling and Analysis
+- Agent-based Modelling and Multi-Agent Systems
+- Self-* (self-adaptive, self-aware, self-organissing) Multi-agent Systems
+- Meta-Cognitive Agent Architectures
+- Human-AI Interaction
+- Computational Argumentation
   
 &nbsp;
 &nbsp;
