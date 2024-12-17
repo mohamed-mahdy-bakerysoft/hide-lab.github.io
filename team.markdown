@@ -33,12 +33,46 @@ layout: home
 <img src="assets/img/icon.jpg" alt="hide" width="150" height="170" align="left" style="margin-right:10px; border-radius:80px"/>  Andrei Bogdan Balcau (Stefan co-supervision with Prof. Carmine Ventre (main) @KCL). Andrei Balcau is a PhD researcher at King's and Imperial College London in the UKRI Safe and Trusted AI Centre for Doctoral Training. His research focuses on creating digital twins for socio-technical complex systems. Before his PhD studies, Andrei received a First Class (Honours) Computer Science (Artificial Intelligence) MSci at King's College London. Andrei's main interests lie at the intersection of Computer Science and Economics, tackling AI alignment and surveillance problems.
 
 
-# Collaborators
+&nbsp;
+&nbsp;
 
-### Dstl
+# External Collaborators
 
-### Inria
+## Dstl, UK
 
-### Imperial College London
+## Inria & CNRS, France
 
-### Uni. of Liverpool
+## Imperial College London, UK
+
+## Uni. of Liverpool, UK
+
+## Ontario Tech, Canada
+
+## UFSC, Brazil
+
+## UNSW, AUS
+
+## Uni. of Oxford, UK
+
+## Uni. of Exeter, UK
+
+## Uni. of Lincoln, UK
+
+## Monash Uni, AUS
+
+## Uni. of Melbourne, AUS
+
+## VRAIN, Spain
+
+## Uni. of Manchester, UK
+
+## Uni. of Southampton, UK
+
+## Uni. of New Haven, USA
+
+## Royal Holloway, UK
+
+## Max Planck Institute, Germany
+
+## Tufts, USA
+
