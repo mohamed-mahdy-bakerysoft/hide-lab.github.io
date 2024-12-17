@@ -31,6 +31,7 @@ We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-
 - Self-* (self-adaptive, self-aware, self-organissing) Multi-agent Systems
 - Meta-Cognitive Agent Architectures
 - Human-AI Interaction
+- Augmented Intelligence
 - Computational Argumentation
   
 &nbsp;
