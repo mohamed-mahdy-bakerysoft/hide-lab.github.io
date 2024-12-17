@@ -29,5 +29,5 @@ We're co-organising a Workshop on <a href="https://sites.google.com/view/theory-
   
 
 ## Grants
-- RAEng UK IC Research Fellowship - £200,000
+- 2x RAEng UK IC Research Fellowships - £500,000
 
